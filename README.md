@@ -1,4 +1,4 @@
-# Proyecto-Recursos-Naturales-POO
+# Proyecto-ECOGestor Simulador de Recursos-Naturales-POO
 Proyecto Programación Orientada a Objetos 
 
 **Nombres de los Integrantes:**
@@ -8,11 +8,15 @@ Proyecto Programación Orientada a Objetos
 - Daniel Santiago Valderrama Corredor
 - Juan Diego Londoño Ramirez
 
-**OBJETIVO**
+**OBJETIVO GENERAL**
+
+Desarrollar una aplicación en Java orientada a objetos que permita simular y registrar el uso de recursos naturales, facilitando
+
+**Objetivos Específicos**
 
 
-EcoGestor es una aplicación orientada a objetos que permite simular y registrar el uso de recursos naturales, como el agua, la energía y los residuos.
-Su propósito es fomentar la conciencia ambiental mediante el seguimiento del consumo y la estimación de impacto, brindando herramientas sencillas para una gestión sostenible de los recursos.
+
+
 
 **DESCRIPCIÓN GENERAL**
 
