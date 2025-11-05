@@ -14,7 +14,12 @@ Desarrollar una aplicación en Java orientada a objetos que permita simular y re
 
 **Objetivos Específicos**
 
-
+ 1. Modelar los recursos naturales mediante clases y herencia para representar agua,
+ energía y residuos.
+ 2. Implementar funcionalidades que simulen consumo, recarga y reciclaje de recursos.
+ 3. Calcular indicadores ambientales como emisiones de CO2 y tasas de reciclaje.
+ 4. Presentar resultados y estadísticas de manera clara para fomentar la conciencia
+ ecológica
 
 
 
